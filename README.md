@@ -1,4 +1,4 @@
-# MAGD-Assaignments-or-Final-Projects
+# MAGD-Assaignments
 
 For **Lab Assignment 2's** Source Code: _https://github.com/20232023/MAGD-Assaignments-Final-Projects/blob/gh-pages/Lab_Assignment_2_Color_Composition_2020_09_25_01_51_15/sketch.js_   This assignment was making a code program work with coloring and shapes.
 
