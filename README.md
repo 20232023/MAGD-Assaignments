@@ -1,1 +1,1 @@
-# MAGD-Assaignments-or-Final-Projects
+# MAGD-Assaignments
